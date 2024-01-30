@@ -1,6 +1,9 @@
+html {
+  font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 20px;
   text-align: center;
 }
 
@@ -20,6 +23,6 @@ h1 {
   color: rgb(255, 192, 203);
 }
 
-#basic {
+#basic p {
   font-weight: bold;
 }
